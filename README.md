@@ -1,0 +1,2 @@
+# Pyramid
+Using_Slice_Operator_With_FOR_Loop
